@@ -22,4 +22,5 @@ Technologies Used
 - HTML5
 - CSS3 (Flexbox / Grid)
 
+view project : https://omarhussien98.github.io/Nexus/
   
